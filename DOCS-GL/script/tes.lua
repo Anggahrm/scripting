@@ -1,0 +1,1 @@
+LogToConsole(getLocal().equip.hand)
